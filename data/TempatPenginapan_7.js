@@ -1,0 +1,1 @@
+var json_TempatPenginapan_7 = {"type":"FeatureCollection","name":"TempatPenginapan_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Hardjo Oetomo Home Stay"},"geometry":{"type":"Point","coordinates":[110.330366599197504,-7.932856737352585]}}]}

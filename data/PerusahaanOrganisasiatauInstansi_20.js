@@ -1,0 +1,1 @@
+var json_PerusahaanOrganisasiatauInstansi_20 = {"type":"FeatureCollection","name":"PerusahaanOrganisasiatauInstansi_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Griya Media Nusantara"},"geometry":{"type":"Point","coordinates":[110.332619335852073,-7.930298435192054]}}]}

@@ -1,0 +1,1 @@
+var json_Perbankan_18 = {"type":"FeatureCollection","name":"Perbankan_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"KSPS KUM3 Istiqomah"},"geometry":{"type":"Point","coordinates":[110.330588715465751,-7.929726437328893]}}]}

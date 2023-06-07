@@ -1,0 +1,1 @@
+var json_TokoObat_8 = {"type":"FeatureCollection","name":"TokoObat_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Apotek Alesha Farma"},"geometry":{"type":"Point","coordinates":[110.33065492677828,-7.929694005973552]}}]}

@@ -1,0 +1,1 @@
+var json_LokasiSaya_21 = {"type":"FeatureCollection","name":"LokasiSaya_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Saya Disini"},"geometry":{"type":"Point","coordinates":[110.330199705957554,-7.930679851196656]}}]}
